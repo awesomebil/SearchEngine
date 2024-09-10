@@ -1,0 +1,3 @@
+Some ideas for how to extend this project are as follows:
+1. Web scraper written in python can be added to extend the webpage indexes. This scraper should generate the necessary txt files from a base url which can then be supplied to the search engine for processing.
+2. A React frontend can be created to accompany the application and provide a easy to use GUI interface for the user to interact with, Websockets could be used to interact with the C++ backend.
