@@ -1,0 +1,6 @@
+Some ideas for how to extend this project are as follows:
+1. Web scraper written in python can be added to extend the webpage indexes. This scraper should generate the necessary txt files from a base url which can then be supplied to the search engine for processing.
+2. A React frontend can be created to accompany the application and provide a easy to use GUI interface for the user to interact with, Websockets could be used to interact with the C++ backend.
+3. Ability to interface with a user's existing search history sourced from Google Chrome or whatever their default browser is that allows them to search their own personal history more quickly and conveniently, a search engine indexed from their own browsing history if you will.
+
+- The frontend can mostly just consist of a search bar and a simple results page listing all the url's that match the search terms and perhaps a preview of the text contained within the links.
